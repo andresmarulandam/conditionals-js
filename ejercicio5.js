@@ -1,0 +1,1 @@
+// Crea una función que tome una cadena como entrada y devuelva true si la cadena es un palíndromo, de lo contrario, devuelve false
